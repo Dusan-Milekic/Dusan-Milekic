@@ -18,7 +18,7 @@
   <a href="mailto:dusanmilekic0511@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/dusan-milekic">
+  <a href="#" onclick='window.open("http://www.foracure.org.au");return false;'>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://salesp07.github.io" target="_blank">
