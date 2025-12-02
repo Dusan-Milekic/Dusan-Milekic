@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Snake animation](https://raw.githubusercontent.com/Dusan-Milekic/Dusan-Milekic/output/github-contribution-grid-snake.svg)
 <!--
 **Dusan-Milekic/Dusan-Milekic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
