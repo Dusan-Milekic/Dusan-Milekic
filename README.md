@@ -25,7 +25,7 @@
 ## 🌸 Currently Mastering
 ```javascript
 const dusan = {
-    role: "Back Office Specialist & Full Stack Developer",
+    role: "Full Stack Developer",
     location: "Serbia 🇷🇸",
     learning: ["Machine Learning", "AI", "Data Science"],
     philosophy: "Code like a samurai - precise, focused, relentless",
