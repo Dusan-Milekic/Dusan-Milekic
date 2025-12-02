@@ -64,8 +64,8 @@ const dusan = {
 ## 📊 Battle Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salesp07&show_icons=true&theme=radical&hide_border=true&border_radius=10&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=salesp07&theme=radical&hide_border=true&border_radius=10&background=0d1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dusan-Milekic&show_icons=true&theme=radical&hide_border=true&border_radius=10&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dusan-Milekic&theme=radical&hide_border=true&border_radius=10&background=0d1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
 </p>
 
 <p align="center">
