@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🍂 Dušan Miletić
+# 🍂 Dušan Milekić
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Dusan+Milekic!;Full+Stack+Developer;侍+Code+Samurai+侍&color=DC143C" />
 
